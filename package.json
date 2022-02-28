@@ -1,0 +1,21 @@
+{
+    "name": "asked-follower",
+    "bin": "index.js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "axios": "^0.26.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "asked",
+        "asked-bot"
+    ],
+    "author": "riarisans",
+    "repository": "https://github.com/riarisans/asked-follower.git",
+    "license": "MIT"
+}
